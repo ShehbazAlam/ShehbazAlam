@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShehbazAlam
 - 👀 I’m a self taught programmer 
-- 🌱 I’m currently learning Android Development 
-- 💞️ I’m looking for work on freelancing sites
+- 🌱 I’m a master a crafting most creative and affective applications for Android, IOS, Windows, Linux and MacOS
+- 💞️ I just love to ``code.....``
 
 
 <!---
