@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @ShehbazAlam
 - 👀 I’m a self taught programmer 
-- 🌱 I’m a master a crafting most creative and affective applications for Android, IOS, Windows, Linux and MacOS
-- 💞️ I just love to ``code.....``
+- 🌱 A master at crafting most creative and affective applications for Android, IOS, Windows, Linux and MacOS
+- 💞️ I just love to
+  ```html
+  <code></code>
+  ```
 
 
 <!---
