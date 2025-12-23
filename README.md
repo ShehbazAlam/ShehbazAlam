@@ -1,5 +1,6 @@
 
 ###
+<h1 align="center">Shehbaz Alam 👋</h1>
 
 <div align="center">
   <a href="https://linkedin.com/in/shehbaz-alam" target="_blank">
@@ -13,8 +14,6 @@
   </a>
   <a href="https://instagram.com/shehbaz_alam_balghari" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
 </div>
 
 ###
@@ -24,8 +23,6 @@
 </div>
 
 ###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -127,16 +124,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShehbazAlam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ShehbazAlam/ShehbazAlam/output/snake.svg" alt="Snake animation" />
-
-###
